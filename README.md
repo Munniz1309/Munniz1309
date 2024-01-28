@@ -1,6 +1,6 @@
 ### Oie me chamo Vitor Muniz... 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-muniz-0393932a4)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-muniz-0393932a4/)
 <!--
 **Munniz1309/Munniz1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
